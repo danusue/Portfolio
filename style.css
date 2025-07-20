@@ -100,14 +100,6 @@ form input, form textarea {
   border-radius: 5px;
 }
 
-#social_links {
-  p {
-    margin: 10px auto;
-    font-weight: bold;
-  }
-  padding: 1rem;
-}
-
 form button {
   background-color: #00ffcc;
   color: black;
