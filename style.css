@@ -118,6 +118,14 @@ form button {
   font-weight: bold;
 }
 
+#social_links {
+  p {
+    margin: 10px auto;
+    font-weight: bold;
+  }
+  padding: 1rem;
+}
+
 footer {
   text-align: center;
   padding: 20px;
